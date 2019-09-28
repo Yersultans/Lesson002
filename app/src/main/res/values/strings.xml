@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson-002</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="Switch">Switch</string>
+</resources>
